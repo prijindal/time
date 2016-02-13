@@ -12,8 +12,9 @@ This Repository, for now, will include all the Research work for the above proje
 
 ### Natural Language Understanding
 - Understanding what user is trying to say
-- Its input will be a sentence with all the words separated by spaces
 - Spelling Correction and lowercase but preserving the actual input because it might mean something
+- Finding Alternate meaning(Synonyms, Homophones) of the words
+- Its input will be a sentence with all the words separated by spaces
 - Determining how to divide it into words, sentences and paragraphs[](#Making Out a sentence)
 - Calculating its grammar
 - Making out exact meaning of the words and checking if any input doesn't make sense
@@ -24,6 +25,9 @@ This Repository, for now, will include all the Research work for the above proje
 
 ### Making Out a sentence
 - Using Context Free Language
+
+### Spelling Correction
+- http://norvig.com/spell-correct.html
 
 ### Text To Speech
 - Record every word in English language
