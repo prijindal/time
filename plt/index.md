@@ -12,5 +12,9 @@
 - This directory will track the comparison between nlt and plt
 - This directory will also track any research done regarding plt
 
+#### Index
+- [Lexical Analysis]('lexical-analysis/index.md')
+- [Theory Of Computation]('toc/index.md')
+
 ### Useful Resources
 - https://en.wikibooks.org/wiki/Compiler_Construction
