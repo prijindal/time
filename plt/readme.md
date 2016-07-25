@@ -15,6 +15,7 @@
 #### Index
 - [Lexical Analysis](lexical-analysis)
 - [Theory Of Computation](toc)
+- [Compiler](compiler.md)
 
 ### Useful Resources
 - https://en.wikibooks.org/wiki/Compiler_Construction

@@ -7,3 +7,5 @@
 - Context Free Grammar
 - Finite State Automaton
 - Backus-Naur Form
+- EBNF
+- Chomsky hierarchy
