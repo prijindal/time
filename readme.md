@@ -25,9 +25,21 @@ This Repository, for now, will include all the Research work for the above proje
 
 ### Making Out a sentence
 - Using Context Free Language
+- Basically programming syntax of English Grammar
+- Use to check if that sentence makes any sense
+- http://www.cs.columbia.edu/~kathy/NLP/ClassSlides/Class7-Parsing09/cfg-parsing.pdf, page 7
+#### CFG RULE
+- S → NP VP
+- VP → V NP
+- NP → Det N | Adj NP
+- N → boy | girl
+- V → sees | likes
+- Adj → big | small
+- DetP → a | the
 
 ### Spelling Correction
 - http://norvig.com/spell-correct.html
+- [spelling.py](./spelling/)
 
 ### Text To Speech
 - Record every word in English language
@@ -49,3 +61,6 @@ This Repository, for now, will include all the Research work for the above proje
 ### GUI
 - Make a smart GUI with above concept
 - This will also mean making your own OS (maybe on top of linux kernel)
+
+### Personal Assistant bot
+- VTOP
