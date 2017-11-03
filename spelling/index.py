@@ -9,7 +9,7 @@ def trans(features):
         model[f] += 1
     return model
 
-NWORDS = trans(words(file('big.txt').read()))
+NWORDS = trans(words(open('big.txt', 'r').read()))
 alphabets = 'abcdefghijklmnopqrstuvwxyz'
 def edits1(word):
     splits = [(word[:i],word[i:]) for i in range(len(word) + 1)]
